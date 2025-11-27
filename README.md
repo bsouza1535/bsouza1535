@@ -13,6 +13,7 @@
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
+  <img align="center" alt="ADVPL" src="https://img.shields.io/badge/ADVPL-0A5D5E?style=for-the-badge&logo=totvs&logoColor=white" />
+</div>
 
 Apaixonado por programação e sempre em busca de novos desafios!
