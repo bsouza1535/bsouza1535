@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Bruno de Souza
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Engenheiro de Software com uma trajetória na construção de soluções robustas para ecossistemas de alta complexidade, integrando desenvolvimento de sistemas backend, automação de processos (RPA) e gestão de infraestruturas críticas. Com um background robusto em Redes de Computadores, migrei minha paixão para a engenharia de software de alta performance, com foco no ecossistema Java 21 e Spring Boot 3.
 
